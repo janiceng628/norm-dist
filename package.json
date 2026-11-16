@@ -1,0 +1,10 @@
+{
+  "name": "all-rounder-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "全能王挑戰：手速 × 心算（標準分課堂活動）",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
